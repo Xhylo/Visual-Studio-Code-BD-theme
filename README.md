@@ -21,3 +21,19 @@ Preview:
 - On hover members list (compact memberslist)
 
 ![599](https://cdn.discordapp.com/attachments/862688548187799565/863048038115967006/unknown.png)
+
+# EditedVSCCtheme:
+- Edited:
+- Compact Serach bar
+- Removed useless text bar buttons
+- Added smoother right click menu effect
+- Changed Ping colors
+- Removed Stage Discord button/tab
+- Remove Nitro Store tab
+- Remove Gift/Stickers button
+
+![600](https://cdn.discordapp.com/attachments/862688548187799565/863063261125673010/unknown.png)
+![601](https://media.discordapp.net/attachments/862688548187799565/863063369765224498/unknown.png?width=1440&height=170)
+![602](https://cdn.discordapp.com/attachments/862688548187799565/863063432559591494/unknown.png)
+![603](https://cdn.discordapp.com/attachments/862688548187799565/863063492369580052/unknown.png)
+![605](https://cdn.discordapp.com/attachments/862688548187799565/863063623257948180/unknown.png)
