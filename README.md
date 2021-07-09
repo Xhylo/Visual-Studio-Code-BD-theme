@@ -32,6 +32,7 @@ Preview:
 - Remove Nitro Store tab
 - Remove Gift/Stickers button
 - Changed "NEW MENTIONS" bar color
+- Added horizontal status (Online; Idle; Dnd; Offline/invisible)
 ![600](https://cdn.discordapp.com/attachments/862688548187799565/863063261125673010/unknown.png)
 ![601](https://media.discordapp.net/attachments/862688548187799565/863063369765224498/unknown.png?width=1440&height=170)
 ![602](https://cdn.discordapp.com/attachments/862688548187799565/863063432559591494/unknown.png)
