@@ -33,9 +33,11 @@ Preview:
 - Remove Gift/Stickers button
 - Changed "NEW MENTIONS" bar color
 - Added horizontal status (Online; Idle; Dnd; Offline/invisible)
+- Added selected channel corner color indentificator
 ![600](https://cdn.discordapp.com/attachments/862688548187799565/863063261125673010/unknown.png)
 ![601](https://media.discordapp.net/attachments/862688548187799565/863063369765224498/unknown.png?width=1440&height=170)
 ![602](https://cdn.discordapp.com/attachments/862688548187799565/863063432559591494/unknown.png)
 ![603](https://cdn.discordapp.com/attachments/862688548187799565/863063492369580052/unknown.png)
 ![604](https://cdn.discordapp.com/attachments/862688548187799565/863063623257948180/unknown.png)
 ![605](https://cdn.discordapp.com/attachments/862688548187799565/863065582572535868/unknown.png)
+![606](https://cdn.discordapp.com/attachments/862475891611271178/863072205708722186/unknown.png)
