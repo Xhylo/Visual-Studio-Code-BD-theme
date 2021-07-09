@@ -16,8 +16,8 @@
 	--color-brand: #111C2F;
 	--color-brand-darker: #0c1420;
 	--color-brand-lighter: #4373c5;
-	--color-red: #e91916;
-	--color-red-darker: #bb1411;
+	--color-red: #4373c5;
+	--color-red-darker: #4373c5;
 	--color-orange: #ffca61;
 	--color-orange-darker: #fcc439;
 	--background-orange: rgba(255, 165, 0, 0.10);
