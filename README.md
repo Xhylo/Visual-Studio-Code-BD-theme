@@ -27,17 +27,17 @@ Preview:
 # EditedVSCCtheme:
 
 - Edited:
-1. ```Compact Serach bar```
-2. ```Removed useless text bar buttons```
-3. ```Added smoother right click menu effect```
-4. ```Changed Ping colors```
-5. ```Removed Stage Discord button/tab```
-6. ```Remove Nitro Store tab```
-7. ```Remove Gift/Stickers button```
-8. ```Changed "NEW MENTIONS" bar color```
-9. ```Added horizontal status (Online; Idle; Dnd; Offline/invisible)```
-10. ```Added selected channel corner color indentificator```
-11. ```Removed File Upload Button```
+- Compact Serach bar
+- Removed useless text bar buttons
+- Added smoother right click menu effect
+- Changed Ping colors
+- Removed Stage Discord button/tab
+- Remove Nitro Store tab
+- Remove Gift/Stickers button
+- Changed "NEW MENTIONS" bar color
+- Added horizontal status (Online; Idle; Dnd; Offline/invisible)
+- Added selected channel corner color indentificator
+- Removed File Upload Button
 
 # All Previews:
 ![600](https://cdn.discordapp.com/attachments/862688548187799565/863063261125673010/unknown.png)
