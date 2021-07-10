@@ -1,49 +1,20 @@
+<h1 align="center">VSC Cord</h1>
+<p align="center">
+  <img alt="Preview" width="860" alt="preview" src="https://cdn.discordapp.com/attachments/862688548187799565/863275036847505460/444444.png">
+<p align="center">
+<p align="center">
+  <a href="https://betterdiscord.app/Download?id=362"> <img alt="Download" src="https://img.shields.io/badge/Download-yellowgreen?style=plastic&logo=github"></a></p>
 
-# VSCC.theme.css
-```yaml
-- Addon name: Visual Studio Code Cord
+<h2 align="center">Installation</h2>
+<p>1. Click this <a href="https://betterdiscord.app/Download?id=362">link</a></p>
+<p>2. Open settings
+<p>3. In the themes section open BetterDiscord themes folder
+<p>4. Save the file in your BetterDiscord themes folder</p>
+<p>5. Select the theme in the Theme section of the Settings window</p>
 
-- GitHub link: https://github.com/Xhylo/VSCC.theme.css/blob/main/VSC-Cord.theme.css
-
-- Brief description: Theme based on Visual Studio Code.
-
-- Did you make this addon yourself?:  Yes, but with some help from my programmer friends.
-
-- Are you using pieces of other people's code?:  Only USRBG and code from userMacieG#7591's Disocord.tv 
-- (I've been given full permission by the original author on this work).
-```
-Preview:
-![598](https://user-images.githubusercontent.com/77571950/125084159-e1710800-e0d1-11eb-9fa0-fda1adf999b8.png)
-```yaml
-- Voice channel radial rings
-
-- On hover text bar border
-
-- On hover members list (compact memberslist)
-```
-
-![599](https://cdn.discordapp.com/attachments/862688548187799565/863048038115967006/unknown.png)
-
-# EditedVSCCtheme:
-
-- Edited:
-- Compact Serach bar
-- Removed useless text bar buttons
-- Added smoother right click menu effect
-- Changed Ping colors
-- Removed Stage Discord button/tab
-- Remove Nitro Store tab
-- Remove Gift/Stickers button
-- Changed "NEW MENTIONS" bar color
-- Added horizontal status (Online; Idle; Dnd; Offline/invisible)
-- Added selected channel corner color indentificator
-- Removed File Upload Button
-
-# All Previews:
-![600](https://cdn.discordapp.com/attachments/862688548187799565/863063261125673010/unknown.png)
-![601](https://media.discordapp.net/attachments/862688548187799565/863063369765224498/unknown.png?width=1440&height=170)
-![602](https://cdn.discordapp.com/attachments/862688548187799565/863063432559591494/unknown.png)
-![603](https://cdn.discordapp.com/attachments/862688548187799565/863063492369580052/unknown.png)
-![604](https://cdn.discordapp.com/attachments/862688548187799565/863063623257948180/unknown.png)
-![605](https://cdn.discordapp.com/attachments/862688548187799565/863065582572535868/unknown.png)
-![606](https://cdn.discordapp.com/attachments/862475891611271178/863072205708722186/unknown.png)
+<h2 align="center">More screenshots</h2>
+<p align="center">
+  <p align="center"><a href="https://imgur.com/a/bxaQJpB.gif">Animated preview</a></p>
+  <p align="center"><img alt="Preview" alt="preview" src="https://cdn.discordapp.com/attachments/862688548187799565/863271688212840468/23.png"></p>
+  <p align="center"><img alt="Preview" width="860" alt="preview" src="https://cdn.discordapp.com/attachments/862688548187799565/863063369765224498/unknown.png"></p>
+<p align="center">
