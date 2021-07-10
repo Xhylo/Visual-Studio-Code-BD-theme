@@ -5,7 +5,7 @@
  * @author Xyhlo#9766
 */
 /* USRBG */
-@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
 /* SUPPORTERS */
 @import url('https://userMacieG.github.io/betterdiscord/supporters.css');
 /* FONT */
@@ -17,7 +17,7 @@
 	--color-brand-darker: #0c1420;
 	--color-brand-lighter: #4373c5;
 	--color-red: #4373c5;
-	--color-red-darker: #4373c5;
+	--color-red-darker: #bb1411;
 	--color-orange: #ffca61;
 	--color-orange-darker: #fcc439;
 	--background-orange: rgba(255, 165, 0, 0.10);
@@ -217,6 +217,10 @@ body,
 .containerDefault--pIXnN.selected-3LIHYU {
     border-left: 6px solid #4373c5;
 }
+/*remove file button (idk why'd you want that)*/
+.attachWrapper-2TRKBi{  display:none;}
+.numberBadge-2s8kKX {background-color: #4373c5 !important}
+
 
 /* Discord: Modal */
 .bd-modal-wrapper .bd-modal-inner {
