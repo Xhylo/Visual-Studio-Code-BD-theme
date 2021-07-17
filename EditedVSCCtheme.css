@@ -1815,26 +1815,32 @@ html .mention.wrapper-3WhCwL.mention.interactive{
     display: none;
   }
   /*avatar only memberlist until hover*/
+.chatContent-a9vAAp { /*Chat pannel and message box*/
+    position: absolute;
+    width: 97%;
+    height: 100%;
+}
 .membersWrap-2h-GB4 {
-    min-width: unset;
-  }
-  .membersWrap-2h-GB4 .members-1998pB {
-    max-width: 65px;
-    min-width: 65px;
-    -webkit-transition: .3s ease;
-    transition: .3s ease;
-  }
-  .membersWrap-2h-GB4 .members-1998pB:hover {
-    max-width: 240px;
-    min-width: 240px;
-  }
-  .membersWrap-2h-GB4 .members-1998pB .content-3YMskv:not(:hover) {
-    padding-top: 10px;
-  }
-  .membersWrap-2h-GB4 .members-1998pB .content-3YMskv:not(:hover) .membersGroup-v9BXpm {
-    height: 0px;
-    padding: 0%;
-  }
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    transform: translateX(80%);
+    justify-content: unset;
+    transition: transform 0.25s ease-in;
+}
+.member-3-YXUe { /*Moves server members for aesthetic purposes*/
+    margin-left: 2px;
+    margin-bottom: 3px;
+}
+/*Shows the server members list*/
+.membersWrap-2h-GB4:hover { /*Shows server's members*/
+    transform: translateX(0%);
+}
+.searchResultsWrap-3-pOjs { /*Moves search results back to the right*/
+    position: absolute;
+    right: 0;
+}
 
 /* Plugins: SendAudio */
 :root {
