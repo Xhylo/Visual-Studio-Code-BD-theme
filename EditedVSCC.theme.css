@@ -1855,3 +1855,6 @@ html .mention.wrapper-3WhCwL.mention.interactive{
 	--sendaudio-send: var(--interactive-normal);
 	--sendaudio-send-hover: var(--interactive-active);
 }
+.searchResultsWrap-3-pOjs {
+    right: 0;
+}
