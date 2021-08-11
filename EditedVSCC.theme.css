@@ -1839,10 +1839,6 @@ html .mention.wrapper-3WhCwL.mention.interactive{
 .membersWrap-2h-GB4:hover { /*Shows server's members*/
     transform: translateX(0%);
 }
-.searchResultsWrap-3-pOjs { /*Moves search results back to the right*/
-    position: absolute;
-    right: 0;
-}
 
 /* Plugins: SendAudio */
 :root {
