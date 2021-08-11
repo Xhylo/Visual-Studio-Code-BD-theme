@@ -1858,3 +1858,14 @@ html .mention.wrapper-3WhCwL.mention.interactive{
 .searchResultsWrap-3-pOjs {
     right: 0;
 }
+platform-osx .app-1q1i1E {
+    margin-top: 32px;
+}
+.platform-osx .wrapper-3NnKdC {
+    margin-top: 0;
+}
+.platform-osx .titleBar-AC4pGV::after {
+    left: 72px;
+    top: 5px;
+    width: 200px;
+}
