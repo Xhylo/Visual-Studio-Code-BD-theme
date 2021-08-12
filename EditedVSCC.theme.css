@@ -1869,3 +1869,8 @@ platform-osx .app-1q1i1E {
     top: 5px;
     width: 200px;
 }
+.sidebar-2K8pFh {
+    resize: horizontal;
+    min-width: 50px;
+    max-width: 400px;
+}
