@@ -1831,10 +1831,6 @@ html .mention.wrapper-3WhCwL.mention.interactive{
     justify-content: unset;
     transition: transform 0.25s ease-in;
 }
-.member-3-YXUe { /*Moves server members for aesthetic purposes*/
-    margin-left: 2px;
-    margin-bottom: 3px;
-}
 /*Shows the server members list*/
 .membersWrap-2h-GB4:hover { /*Shows server's members*/
     transform: translateX(0%);
