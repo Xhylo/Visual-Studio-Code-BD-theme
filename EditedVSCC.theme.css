@@ -1818,9 +1818,7 @@ html .mention.wrapper-1ZcZW-.mention.interactive{
   }
   /*avatar only memberlist until hover*/
 .chatContent-3KubbW { /*Chat pannel and message box*/
-    position: absolute;
-    width: 97%;
-    height: 100%;
+    margin-right: 60px;
 }
 .membersWrap-3NUR2t {
     position: absolute;
